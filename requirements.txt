@@ -1,0 +1,6 @@
+pandas
+numpy
+plotly
+matplotlib
+seaborn
+warnings
